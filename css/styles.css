@@ -1,0 +1,237 @@
+*{
+    box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box; 
+}
+
+body{
+	margin: 0;
+	background: #fff;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.container{
+	width: 960px;
+	min-height: 600px;
+	margin: 0 auto;
+    background: #fff;
+}
+
+
+.container nav{
+    margin: 0;
+    width: 100%;
+	height: 100px;
+	padding: 20px;
+
+}
+.container nav span{
+    margin: 0;
+}
+
+.container nav span a{
+    margin-left: 0;
+}
+
+.container nav ul{
+    list-style-type: none;
+	margin: 0;
+	padding: 0;
+    float: right;
+    margin-right: 10%;
+    
+}
+
+.container nav ul li{
+    float: left;
+    padding: 35px;
+    margin: 0;
+    
+}
+.container nav ul li a{
+    color: black;
+    text-decoration: none;
+    margin-bottom: 40px;
+   
+    margin: auto;
+  
+}
+.container div{
+    width: 500;
+    margin: 0;
+    position: center;
+}
+.container div img{
+    width: 100%;
+    margin: 0;
+    position: auto;
+}
+.container section.slider{
+    float: flex;
+    border-bottom: 1px dashed black;
+}
+
+.container section.slider1 div{
+    float: right;
+    width: 50%;
+    padding: 40px;
+    padding-top: 0;
+    border-bottom: 1px dashed black;
+   
+}
+.container section.slider5 div{
+    float: right;
+    width: 50%;
+    padding: 0;
+    padding-top: 0;
+    border-bottom: 1px dashed black;
+    padding-top: 20px;
+    
+   
+}
+.container section.slider5 div{
+    float: right;
+    width: 50%;
+    padding: 10px;
+    padding-top: 0;
+    border-bottom: 1px dashed black;
+    padding-top: 20px;
+    
+   
+}
+.container section .slider2 div{
+    padding-top: 20px;
+    border-bottom: 1px dashed black;
+}
+
+.container section.slider2 div p{
+    float: left;
+    width: 100%;
+    padding: 40px;
+    padding-top: 0;
+    align-content: flex;
+    
+
+}
+
+
+.container section.slider2 div p.p1{
+    width: 15%;
+    padding: 50px;
+    margin: 20px;
+    background:teal;
+    color: white;
+    
+}
+.container section.slider2 div p.p2{
+    width: 15%;
+    padding: 50px;
+    margin: 20px;
+    background:yellow;
+    
+}
+
+.container section.slider2 div p.p3{
+    width: 15%;
+    padding: 50px;
+    margin: 20px;
+    background:grey;
+    color: white;
+}
+.container section.slider2 div p.p4{
+    width: 15%;
+    padding: 50px;
+    margin: 20px;
+    background:orange;
+    color: white;
+}
+.container section.slider2 div p.p5{
+    width: 15%;
+    padding: 50px;
+    margin: 20px;
+    background:red;
+    color: white;
+}
+
+.container section.slider2 div p.p6{
+    width: 15%;
+    padding: 50px;
+    margin: 20px;
+    background:green;
+    color: white;
+}
+.container section.slider2 div p.p7{
+    width: 15%;
+    padding: 50px;
+    margin: 20px;
+    background:mediumorchid;
+    color: white;
+}
+.container section.slider2 div p.p8{
+    width: 15%;
+    padding: 50px;
+    margin: 20px;
+    background:pink;
+    color: white;
+}
+.container section.slider2 div p.p9{
+    width: 15%;
+    padding: 50px;
+    margin: 20px;
+    background:purple;
+    color: white;
+}
+.container section.slider2 div p.p10{
+    width: 15%;
+    padding: 50px;
+    margin: 20px;
+    background:rgb(28, 0, 128);
+    color: white;
+}
+.container section .slider3{
+
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+
+.container section.slider3 div{
+    float: right;
+    width: 30%;
+    padding: 40px;
+    padding-top: 20px;
+    
+   
+}
+.container section.slider4{
+    float: flex;
+}
+.container section.slider4 div{
+    
+    border-bottom: 50px;
+}
+
+.container footer{
+    background-color: black;
+    margin-bottom: 0;
+    width: 100%;
+	height: 45px;
+	text-align: left;
+	
+	color: #eee;
+	padding: 2px;
+	margin-top: 20px;
+    clear: both;
+}
+.container footer nav a{
+    color: white;
+    padding: 30px;
+    text-decoration: none;
+    padding-bottom: 10px;
+    padding-left: 0;
+}
+
+
